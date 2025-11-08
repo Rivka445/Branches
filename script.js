@@ -7,3 +7,7 @@ const funcBranch1=()=>{
 const funcMain=()=>{
     const b="inMain"
 }
+
+const funcBrunch3=()=>{
+    const a ="inBranch3"
+}
